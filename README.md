@@ -13,4 +13,4 @@ Therefore, you must ensure that you runs this code with JDK 8.
 | NIA    | User name | Repo | Build Status | What was explored | Review for :gift: | Score
 |--------|-----------|------|--------------|-------------------|----------------------|--------
 |        |           |      |              |                   |                      |
-       
+|735508  | Ignacio Galve Ceamanos | [Test Branch](https://github.com/IgnacioSan22/lab2-big-ws/tree/test)  | [![Build Status](https://travis-ci.org/IgnacioSan22/lab2-big-ws.svg?branch=test)](https://travis-ci.org/IgnacioSan22/lab2-big-ws/tree/test) | En -> ES and same ES -> EN (test coherence) |     
